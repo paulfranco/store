@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "688674156641",
+    "firebase_url": "https://theorder-9c779.firebaseio.com",
+    "project_id": "theorder-9c779",
+    "storage_bucket": "theorder-9c779.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:688674156641:android:a78dd26d74511bce603a20",
+        "android_client_info": {
+          "package_name": "co.paulfran.store"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "688674156641-qacnqa3f976f1no77alv6bjqefberkhi.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "co.paulfran.store",
+            "certificate_hash": "cec7ad9534e29dda3706e32a1b9026f3649520f2"
+          }
+        },
+        {
+          "client_id": "688674156641-brothndefo18jkr7ta6lb7ueppc7i65c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDdMI2-29Zv3C4k6JNCgj_bHrk8EcBzB8g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "688674156641-brothndefo18jkr7ta6lb7ueppc7i65c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
